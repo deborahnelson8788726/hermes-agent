@@ -1,6 +1,6 @@
 ---
 name: kanban-orchestrator
-description: Decomposition playbook + specialist-roster conventions + anti-temptation rules for an orchestrator profile routing work through Kanban. The "don't do the work yourself" rule and the basic lifecycle are auto-injected into every kanban worker's system prompt; this skill is the deeper playbook when you're specifically playing the orchestrator role.
+description: "Плейбук декомпозиции + соглашения по составлению списка специалистов + правила противоискушения для профиля оркестратора, маршрутизирующего задачи через Kanban. Правило «не делать работу самому» и базовый жизненный цикл автоматически внедряются в системный промпт каждого kanban-работника; этот навык представляет собой более глубокий плейбук, когда вы играете роль оркестратора."
 version: 2.0.0
 metadata:
   hermes:

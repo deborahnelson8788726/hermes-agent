@@ -1,6 +1,6 @@
 ---
 name: plan
-description: "Plan mode: write markdown plan to .hermes/plans/, no exec."
+description: "Режим планирования: markdown-план в .hermes/plans/, без exec."
 version: 1.0.0
 author: Hermes Agent
 license: MIT

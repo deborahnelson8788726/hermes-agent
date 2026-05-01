@@ -1,6 +1,6 @@
 ---
 name: manim-video
-description: "Manim CE animations: 3Blue1Brown math/algo videos."
+description: "Анимации Manim CE: видео 3Blue1Brown по математике/алгоритмам."
 version: 1.0.0
 ---
 

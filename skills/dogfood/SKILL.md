@@ -1,6 +1,6 @@
 ---
 name: dogfood
-description: "Exploratory QA of web apps: find bugs, evidence, reports."
+description: "Исследовательское QA веб-приложений: поиск багов, доказательства, отчеты."
 version: 1.0.0
 metadata:
   hermes:

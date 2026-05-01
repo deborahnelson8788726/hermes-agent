@@ -1,6 +1,6 @@
 ---
 name: webhook-subscriptions
-description: "Webhook subscriptions: event-driven agent runs."
+description: "Вебхуки: событийные агенты выполняются."
 version: 1.1.0
 metadata:
   hermes:

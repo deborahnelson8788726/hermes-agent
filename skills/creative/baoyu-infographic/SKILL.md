@@ -1,6 +1,6 @@
 ---
 name: baoyu-infographic
-description: "Infographics: 21 layouts x 21 styles (信息图, 可视化)."
+description: "Инфографики: 21 макет × 21 стиль (信息图, визуализация)."
 version: 1.56.1
 author: 宝玉 (JimLiu)
 license: MIT

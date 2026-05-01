@@ -1,6 +1,6 @@
 ---
 name: yuanbao
-description: "Yuanbao (元宝) groups: @mention users, query info/members."
+description: "Yuanbao (元宝) группы: @упоминание пользователей, запрос информации/участников."
 version: 1.0.0
 metadata:
   hermes:

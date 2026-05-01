@@ -1,6 +1,6 @@
 ---
 name: linear
-description: "Linear: manage issues, projects, teams via GraphQL + curl."
+description: "Linear: управление задачами, проектами, командами через GraphQL + curl."
 version: 1.0.0
 author: Hermes Agent
 license: MIT

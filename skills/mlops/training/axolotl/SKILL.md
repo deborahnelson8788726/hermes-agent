@@ -1,6 +1,6 @@
 ---
 name: axolotl
-description: "Axolotl: YAML LLM fine-tuning (LoRA, DPO, GRPO)."
+description: "Axolotl: YAML-файнтьюнинг LLM (LoRA, DPO, GRPO)."
 version: 1.0.0
 author: Orchestra Research
 license: MIT

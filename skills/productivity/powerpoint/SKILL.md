@@ -1,6 +1,6 @@
 ---
 name: powerpoint
-description: "Create, read, edit .pptx decks, slides, notes, templates."
+description: "Создание, чтение, редактирование .pptx-презентаций, слайдов, заметок, шаблонов."
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

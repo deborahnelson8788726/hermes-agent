@@ -1,6 +1,6 @@
 ---
 name: nano-pdf
-description: "Edit PDF text/typos/titles via nano-pdf CLI (NL prompts)."
+description: "Редактирование текста PDF/типографических ошибок/заголовков через nano-pdf CLI (NL промпты)."
 version: 1.0.0
 author: community
 license: MIT

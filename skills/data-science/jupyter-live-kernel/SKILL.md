@@ -1,6 +1,6 @@
 ---
 name: jupyter-live-kernel
-description: "Iterative Python via live Jupyter kernel (hamelnb)."
+description: "Итеративное Python с живым Jupyter-ядром (hamelnb)."
 version: 1.0.0
 author: Hermes Agent
 license: MIT

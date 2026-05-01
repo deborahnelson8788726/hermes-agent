@@ -1,6 +1,6 @@
 ---
 name: obsidian
-description: Read, search, and create notes in the Obsidian vault.
+description: "Читать, искать и создавать заметки в Obsidian-хранилище."
 ---
 
 # Obsidian Vault

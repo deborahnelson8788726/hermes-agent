@@ -1,6 +1,6 @@
 ---
 name: p5js
-description: "p5.js sketches: gen art, shaders, interactive, 3D."
+description: "p5.js-скетчи: генеративное искусство, шейдеры, интерактив, 3D."
 version: 1.0.0
 metadata:
   hermes:

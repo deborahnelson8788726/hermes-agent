@@ -1,6 +1,6 @@
 ---
 name: weights-and-biases
-description: "W&B: log ML experiments, sweeps, model registry, dashboards."
+description: "W&B: логирование ML-экспериментов, sweeps, реестр моделей, панели."
 version: 1.0.0
 author: Orchestra Research
 license: MIT

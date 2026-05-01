@@ -1,6 +1,6 @@
 ---
 name: youtube-content
-description: "YouTube transcripts to summaries, threads, blogs."
+description: "YouTube-транскрипции в суммарии, треды, блоги."
 ---
 
 # YouTube Content Tool

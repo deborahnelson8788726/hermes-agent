@@ -1,6 +1,6 @@
 ---
 name: heartmula
-description: "HeartMuLa: Suno-like song generation from lyrics + tags."
+description: "HeartMuLa: генерация песен Suno-стиля из текста + тегов."
 version: 1.0.0
 metadata:
   hermes:

@@ -1,6 +1,6 @@
 ---
 name: ascii-video
-description: "ASCII video: convert video/audio to colored ASCII MP4/GIF."
+description: "ASCII-видео: конвертация видео/аудио в цветной ASCII MP4/GIF."
 ---
 
 # ASCII Video Production Pipeline

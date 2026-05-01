@@ -1,6 +1,6 @@
 ---
 name: notion
-description: "Notion API via curl: pages, databases, blocks, search."
+description: "Notion API через curl: страницы, базы данных, блоки, поиск."
 version: 1.0.0
 author: community
 license: MIT

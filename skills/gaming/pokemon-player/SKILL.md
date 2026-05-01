@@ -1,6 +1,6 @@
 ---
 name: pokemon-player
-description: "Play Pokemon via headless emulator + RAM reads."
+description: "Игра Pokemon через headless-эмулятор + RAM-чтение."
 tags: [gaming, pokemon, emulator, pyboy, gameplay, gameboy]
 ---
 # Pokemon Player

@@ -1,6 +1,6 @@
 ---
 name: spotify
-description: "Spotify: play, search, queue, manage playlists and devices."
+description: "Spotify: воспроизведение, поиск, очередь, управление плейлистами и устройствами."
 version: 1.0.0
 author: Hermes Agent
 license: MIT
