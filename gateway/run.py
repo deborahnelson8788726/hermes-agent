@@ -5220,6 +5220,20 @@ class GatewayRunner:
                     # built-ins (command may be an alias target set by the
                     # quick-command block above, so _cmd_def can be stale).
                     if command.replace("_", "-") not in GATEWAY_KNOWN_COMMANDS:
+                        # Telegram convention: /start is sent on first interaction
+                        # (Start button on bot profile). Reply with a friendly
+                        # welcome instead of "Unknown command".
+                        if command == "start":
+                            return (
+                                "👋 Привет! Я Hermes — AI-агент с памятью, "
+                                "инструментами и доступом к множеству скиллов.\n\n"
+                                "Просто напиши мне обычным сообщением — я отвечу.\n\n"
+                                "Полезные команды:\n"
+                                "• /help — список основных команд\n"
+                                "• /commands — все команды и скиллы\n"
+                                "• /sethome — сделать этот чат home channel\n"
+                                "• /status — информация о текущей сессии"
+                            )
                         logger.warning(
                             "Unrecognized slash command /%s from %s — "
                             "replying with unknown-command notice",
@@ -5227,10 +5241,10 @@ class GatewayRunner:
                             source.platform.value if source.platform else "?",
                         )
                         return (
-                            f"Unknown command `/{command}`. "
-                            f"Type /commands to see what's available, "
-                            f"or resend without the leading slash to send "
-                            f"as a regular message."
+                            f"Неизвестная команда `/{command}`. "
+                            f"Напиши /commands чтобы увидеть доступные, "
+                            f"или отправь без `/` в начале — тогда это будет "
+                            f"обычное сообщение для агента."
                         )
             except Exception as e:
                 logger.debug("Skill command check failed (non-fatal): %s", e)
